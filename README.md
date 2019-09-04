@@ -1,7 +1,7 @@
 # MacroPot
 
 Deftaudio MacroPot is a single knob deeply programable MIDI controller with extended interface capabilities based around Teensy HW and Arduino programming model. It's designed to be the most compact Teensy3.2 MIDI implementation in a very dense packaging inside a rugged enclosure. You don't need to be experienced in Arduino programming, it comes with full featured firmware. However for experienced users can leverage an Open Source firmware available for your own modifications.
-
+![MacroPot assembled photo](https://github.com/Deftaudio/MacroPot/raw/master/Photos/angledview1.JPG)
   
 
 ### Introduction Video
