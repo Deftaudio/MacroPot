@@ -133,6 +133,8 @@ MacroPot is an open project, you may decide to purchase a PCB only and source ot
 	- Top screws
 
 	- Thermal pad (TIM)
+	
+	- USB cable
 
   
 
