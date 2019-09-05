@@ -152,11 +152,20 @@ MacroPot is an open project, you may decide to purchase a PCB only and source ot
 
   
 
-#### ****Available at:****
+#### **Available at:**
 
 Tindie: https://www.tindie.com/stores/deftaudio/
 
+- https://www.tindie.com/products/deftaudio/macropot-deeply-programmable-midi-controller-kit/
+
 eBay: https://www.ebay.com/sch/ktracker_rus/m.html
+
+- https://www.ebay.com/itm/333318502019
+- https://www.ebay.com/itm/333318503584
+- https://www.ebay.com/itm/333318504255
+- https://www.ebay.com/itm/333318504975
+- https://www.ebay.com/itm/333319417566
+- https://www.ebay.com/itm/333319422143
 
   
 
@@ -176,7 +185,7 @@ https://docs.google.com/document/d/1nHQZJlmbKfMoiNE-2jQ2WAEOWn6yFhDtXKQVzbqB8Ts/
 
   
 
-****ASSEMBLY VIDEO:****
+**ASSEMBLY VIDEO:**
 
 https://youtu.be/n0h99QKWodY
 
@@ -194,7 +203,7 @@ https://docs.google.com/document/d/1nPIYxyJ24XFE5UrgwzTidY-a2B3J3utPwMfMKG4Hb1w/
 
   
 
-****Synclavier Mode:****
+**Synclavier Mode:**
 
 https://youtu.be/EoEbT5Iu1uM
 
