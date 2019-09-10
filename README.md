@@ -100,7 +100,7 @@ MacroPot is an open project, you may decide to purchase a PCB only and source ot
 
   
 
-- **MacroPot PCB only - $15**
+- **MacroPot PCB only - $9**
 
 - **MacroPot base electronic kit** (all electronics but Teensy 3.2): **- $45**
 
