@@ -198,9 +198,12 @@ MacroPot is programmable over SysEX messages. There is no GUI editor currently, 
 SysEx programming may look confusing in a first place, in fact, you got great documentation to support your learning. You'll learn everything from here:
 
   
-
 https://docs.google.com/document/d/1nPIYxyJ24XFE5UrgwzTidY-a2B3J3utPwMfMKG4Hb1w/edit?usp=sharing
 
+
+**PROGRAMMING VIDEO:**
+
+https://youtu.be/COOzS5v5v0I
   
 
 **Synclavier Mode:**
