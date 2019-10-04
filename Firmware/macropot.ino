@@ -115,13 +115,13 @@ uint8_t CurrentMacro=0;
 
 
 void myClock() {
-  digitalWrite(ledPin, HIGH); // Any Note-On turns on LED
-  analogWrite(PWMled1, 255);
+  digitalWrite(ledPin, LOW); // Any Note-On turns on LED
+  analogWrite(PWMled1, 0);
   blinkrate++;
-  if (blinkrate > 8) {
-    blinkrate=-8;
-    digitalWrite(ledPin, LOW);
-    analogWrite(PWMled1, 0);
+  if (blinkrate >= 4) {
+    blinkrate=-16;
+    digitalWrite(ledPin, HIGH);
+    analogWrite(PWMled1, 255);
   }
 
   //Audio Output on clock Test Example here:
