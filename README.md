@@ -100,9 +100,9 @@ MacroPot is an open project, you may decide to purchase a PCB only and source ot
 
   
 
-- **MacroPot PCB only - $9**
+- **MacroPot PCB only - $8**
 
-- **MacroPot base electronic kit** (all electronics but Teensy 3.2): **- $45**
+- **MacroPot base electronic kit** (all electronics but Teensy 3.2): **- $38**
 
 	- PCB
 
@@ -118,7 +118,7 @@ MacroPot is an open project, you may decide to purchase a PCB only and source ot
 
 	- Dupont wires
 
-- **MacroPot complete kit: - $75**
+- **MacroPot complete kit: - $68**
 
 	- Base electronic kit
 
@@ -138,7 +138,7 @@ MacroPot is an open project, you may decide to purchase a PCB only and source ot
 
   
 
-- **MacroPot assembled unit - $119**
+- **MacroPot assembled unit - $118**
 
   
 
